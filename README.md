@@ -1,4 +1,4 @@
-# MrBlue2041
+# Juliano Ferreira [@MrBlue2041]
 
 **Desenvolvedor de Software | Java · Spring Boot · React**
 
@@ -18,9 +18,9 @@ Desenvolvimento backend, APIs REST, modelagem de dados e arquitetura de software
 
 ### [BarberHub](https://github.com/MrBlue2041/BarberHub)
 
-Plataforma SaaS multi-tenant para gerenciamento de barbearias, com foco em arquitetura backend e organização de dados.
+Plataforma SaaS multi-tenant para gerenciamento de barbearias.
 
-- Desenvolvimento de APIs REST com Java e Spring Boot
+- APIs REST desenvolvidas com Java e Spring Boot
 - Gerenciamento de contas e barbearias
 - Persistência de dados com PostgreSQL
 - Arquitetura multi-tenant em desenvolvimento
@@ -33,11 +33,11 @@ Projeto voltado ao desenvolvimento de serviços web e APIs, explorando comunica�
 
 ### [WorkShop-Mongo](https://github.com/MrBlue2041/WorkShop-Mongo)
 
-Projeto prático com foco em MongoDB, persistência de dados e conceitos de bancos de dados NoSQL.
+Projeto prático com foco em MongoDB, persistência de dados e bancos de dados NoSQL.
 
 ### [PimPontePreta](https://github.com/MrBlue2041/PimPontePreta)
 
-Projeto de aplicação digital voltada à experiência de torcedores da Ponte Preta, com funcionalidades relacionadas a cadastro, ingressos e experiência do sócio-torcedor.
+Aplicação digital voltada à experiência de torcedores da Ponte Preta, com funcionalidades relacionadas a cadastro, ingressos e sócio-torcedor.
 
 ### [Bender-Web](https://github.com/wlldavid/bender-web)
 
