@@ -1,3 +1,5 @@
+![Banner de Juliano Ferreira](./banner.png)
+
 # Juliano Ferreira [@MrBlue2041]
 
 **Desenvolvedor de Software | Java · Spring Boot · React**
@@ -7,11 +9,15 @@ Desenvolvimento backend, APIs REST, modelagem de dados e arquitetura de software
 ## 🛠️ Tecnologias e ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,react,python,c" alt="Linguagens e frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,react,python,c" alt="Java, Spring Boot, Maven, React, Python e C" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,idea,vscode" alt="Bancos de dados e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github" alt="PostgreSQL, MySQL, MongoDB, SQLite, Git e GitHub" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pawn-273849?style=for-the-badge&logoColor=white" alt="Pawn" />
 </p>
 
 ## 🚀 Projetos em destaque
