@@ -6,7 +6,7 @@
 
 Desenvolvimento backend, APIs REST, modelagem de dados e arquitetura de software.
 
-## 🛠️ Tecnologias e ferramentas
+## |-| Tecnologias e ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,maven,react,python,c" alt="Java, Spring Boot, Maven, React, Python e C" />
@@ -20,7 +20,7 @@ Desenvolvimento backend, APIs REST, modelagem de dados e arquitetura de software
   <img src="https://img.shields.io/badge/Pawn-273849?style=for-the-badge&logoColor=white" alt="Pawn" />
 </p>
 
-## 🚀 Projetos em destaque
+## |-| Projetos em destaque
 
 ### [BarberHub](https://github.com/MrBlue2041/BarberHub)
 
@@ -51,7 +51,7 @@ Projeto colaborativo de desenvolvimento web utilizando React, com foco na constr
 
 **Contribuição:** Desenvolvimento frontend com React.
 
-## 💡 Áreas de interesse
+## |-| Áreas de interesse
 
 - Desenvolvimento backend
 - APIs REST e integração entre sistemas
