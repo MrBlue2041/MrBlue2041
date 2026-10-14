@@ -1,58 +1,60 @@
 # MrBlue2041
 
-**Software Developer | Java · Spring Boot · React**
+**Desenvolvedor de Software | Java · Spring Boot · React**
 
-Focused on backend engineering, API development, database design and software architecture.
+Desenvolvimento backend, APIs REST, modelagem de dados e arquitetura de software.
 
-## Tech Stack
+## 🛠️ Tecnologias e ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,react,python,c" alt="Programming languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,react,python,c" alt="Linguagens e frameworks" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,idea,vscode" alt="Databases and development tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,idea,vscode" alt="Bancos de dados e ferramentas" />
 </p>
 
-## Featured Projects
+## 🚀 Projetos em destaque
 
 ### [BarberHub](https://github.com/MrBlue2041/BarberHub)
 
-Multi-tenant SaaS platform for barbershop management, focused on backend architecture and data persistence.
+Plataforma SaaS multi-tenant para gerenciamento de barbearias, com foco em arquitetura backend e organização de dados.
 
-- REST API development with Java and Spring Boot
-- Account and barbershop management
-- PostgreSQL integration
-- Multi-tenant architecture in development
+- Desenvolvimento de APIs REST com Java e Spring Boot
+- Gerenciamento de contas e barbearias
+- Persistência de dados com PostgreSQL
+- Arquitetura multi-tenant em desenvolvimento
+
+**Status:** Em desenvolvimento.
 
 ### [WebServices](https://github.com/MrBlue2041/web-services)
 
-Backend project focused on web services, API development and application integration.
+Projeto voltado ao desenvolvimento de serviços web e APIs, explorando comunicação entre aplicações e organização do backend.
 
 ### [WorkShop-Mongo](https://github.com/MrBlue2041/WorkShop-Mongo)
 
-Practical project exploring MongoDB, NoSQL databases and data persistence.
+Projeto prático com foco em MongoDB, persistência de dados e conceitos de bancos de dados NoSQL.
 
 ### [PimPontePreta](https://github.com/MrBlue2041/PimPontePreta)
 
-Application project focused on a digital membership and ticketing experience for football supporters.
+Projeto de aplicação digital voltada à experiência de torcedores da Ponte Preta, com funcionalidades relacionadas a cadastro, ingressos e experiência do sócio-torcedor.
 
 ### [Bender-Web](https://github.com/wlldavid/bender-web)
 
-Collaborative web development project built with React, focused on frontend development, reusable components and web interfaces.
+Projeto colaborativo de desenvolvimento web utilizando React, com foco na construção de interfaces e componentes reutilizáveis.
 
-**Contribution:** Frontend development with React.
+**Contribuição:** Desenvolvimento frontend com React.
 
-## Areas of Interest
+## 💡 Áreas de interesse
 
-- Backend engineering
-- RESTful API design
-- Database modeling and persistence
-- Software architecture
-- Full-stack development
+- Desenvolvimento backend
+- APIs REST e integração entre sistemas
+- Modelagem e persistência de dados
+- Arquitetura de software
+- Desenvolvimento de aplicações web
 
 ---
 
 <p align="center">
-  <i>Building software. Solving problems. Improving continuously.</i>
+  <i>Desenvolvendo soluções. Resolvendo problemas. Evoluindo continuamente.</i>
 </p>
